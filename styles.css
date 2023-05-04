@@ -60,3 +60,6 @@ html,body{
     background-color: #282e34;
     color: #ddd;
 }
+p{
+    text-align: justify;
+}
